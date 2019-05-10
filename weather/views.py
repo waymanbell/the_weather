@@ -1,3 +1,6 @@
+#Taken from tutorial at https://scotch.io/tutorials/building-a-weather-app-in-django
+#My own original contributions are an import and modification to the way the API is called
+
 from django.shortcuts import render
 import requests
 from .models import City

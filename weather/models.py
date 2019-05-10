@@ -1,4 +1,5 @@
 # the_weather/weather/models.py
+#Taken tutorial found at https://scotch.io/tutorials/building-a-weather-app-in-django
 
 from django.db import models
 
