@@ -25,6 +25,7 @@ SECRET_KEY = 'u1v$*@h29gir1m($c1d7%3*34fd#c9f-ehmyc4=*k#!wh!+gv#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
+#I, Wayman, modified the below parameters to allow the app to be accessible from WAN
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '10.0.0.19', 'wayman.tech']
 
 
